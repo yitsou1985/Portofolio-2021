@@ -16,7 +16,11 @@ const Home = ()=>{
             <li>Css <i className="arrow left"></i></li>
             <li>JavaScript <i className="arrow left"></i></li>
             <li>React <i className="arrow left"></i></li>
-            <li>Nodejs <i className="arrow left"></i></li><br></br>
+            <li>Nodejs <i className="arrow left"></i></li>
+            <li>NoSQL  <i className="arrow left"></i></li>
+            <li>PostgreSQL <i className="arrow left"></i></li>
+            <li>Github <i className="arrow left"></i></li><br></br>
+
             <BouncingBall />
             
             </ul>
