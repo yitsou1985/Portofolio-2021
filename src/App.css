@@ -1,6 +1,6 @@
 body{
  
-  background-image: url("./components/image/aqua.jpg");
+  background-image: url("./components/image/picture.jpg");
   background-repeat: no-repeat;
   background-size: cover;
  
@@ -11,7 +11,7 @@ body{
 body{
   margin:0;
   /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif!important; */
-  font-family:"monospace"!important
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .App-header {
@@ -47,7 +47,7 @@ body{
 h1,h2,h3,h4,h5{
   
   /* color: goldenrod; */
-  color: rgb(218, 116, 32);
+  color:rgb(248, 185, 102) ;
   text-align: center ;
   ;
 }
@@ -60,7 +60,7 @@ p{
   font-size: 18px;
 
   /* color: goldenrod; */
-  color: rgb(218, 116, 32);
+  color:chocolate
 }
 img {
   display: block;
